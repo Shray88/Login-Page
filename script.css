@@ -1,0 +1,93 @@
+*{
+	padding: 0;
+	box-sizing: border-box;
+	margin: 0;
+
+}
+html {
+	min-height: 100%;
+ }
+
+body{
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	min-height: 100vh;
+	background: url(https://wallpaperaccess.com/full/21599.jpg) no-repeat;
+	background-size: cover;
+	background-position: center;
+}
+.wrapper{
+	color: white;
+	background-color: transparent;
+	border: 2px solid rgb(255,255,255, .2);
+	backdrop-filter: blur(10px);
+	width: 400px;
+	border-radius: 20px;	
+	font-size: 13px;
+	line-height: 3;
+	padding: 30px 30px;
+	
+}
+.wrapper h1{
+	text-align: center;
+	line-height: 50px;
+	font-size: 40px;
+
+}
+.wrapper .input-box {
+    background: transparent;
+    padding: 10px; 
+    margin: 0px; 
+	text-align: center;
+}
+.input-box input{
+	background: transparent;
+	border-radius: 20px;
+	padding: 5px;
+	padding-inline-start: 10px;
+	width: 210px;
+	border-width: 2px;
+	border-color: aliceblue;
+	
+	
+}
+.remember a{
+	color: aliceblue;
+	text-decoration: none;
+}
+.wrapper .remember{
+	background-color: transparent;
+	width: 490px;
+	text-align: center;
+	display: flex;
+	justify-content: space-between;
+	max-width: 340px;
+	
+	
+	
+}
+
+.submit{
+	text-align: center;
+}
+.wrapper button{
+	background: white;
+	border-radius: 20px;
+	padding: 5px;
+	color: black;
+	cursor: pointer;
+	width: 300px;
+	
+}
+.submit button:hover{
+	border-color: black;
+}
+.forget{
+	text-align: center;
+}
+.forget a{
+	background-color: transparent;
+	width: auto;
+	color: white;
+}
