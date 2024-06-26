@@ -4,6 +4,7 @@ This project demonstrates a simple login form styled with CSS for a clean and mo
 
 ## Preview
 
+![ss](https://github.com/Shray88/Login-Page/assets/154779817/82bb62ac-e5b9-49ad-834a-2a731170636c)
 
 
 ## Features
@@ -31,3 +32,7 @@ Simply open index.html in your preferred web browser to view and interact with t
 
 ## Contributing
 Contributions are welcome! Please feel free to fork the repository and submit pull requests.
+
+## Acknowledgments
+- Icons provided by Boxicons.
+- Background image sourced from WallpaperAccess.
